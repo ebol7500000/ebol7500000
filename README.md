@@ -1,7 +1,7 @@
-#  Ebol 7.500.000
+#  Ebol 7.5k
 - 👋 Hi, I’m @ebol7500000
-- 👀 I’m interested in webradios and art  
-- 💞️ I’m looking to collaborate on @gomesgomes85000
+- 👀 I’m interested in sites and so onn  
+- 💞️ I’m looking to collaborate on @scrum_team 
 
 # Technology
 
