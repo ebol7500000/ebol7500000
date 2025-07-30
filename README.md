@@ -20,15 +20,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abel8260&theme=blue-green&show_icons=true&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ebol7500000&theme=blue-green&show_icons=true&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abel8260&theme=blue-green&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebol7500000&theme=blue-green&layout=compact&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abel8260&theme=calm&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebol7500000&theme=calm&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -45,5 +45,5 @@
 
 <!-- Optionally add contact links or portfolio -->
 <p align="center">
-  📫 Reach me on [GitHub](https://github.com/abel8260)
+  📫 Reach me on [GitHub](https://github.com/ebol7500000)
 </p>
