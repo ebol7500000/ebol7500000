@@ -1,59 +1,49 @@
-#  Ebol 7.5k
-- 👋 Hi, I’m @ebol7500000
-- 👀 I’m interested in sites and so onn  
-- 💞️ I’m looking to collaborate on @scrum_team 
+<!-- Open Graph Image -->
+<meta property="og:image" content="https://i.ibb.co/jR33T0w/abel8260-og-img.png" />
 
-# Technology
+<h1 align="center">Hi there 👋, I'm ebol_75</h1>
 
-- make CLI :
-![imagem](https://img.icons8.com/color/48/000000/c-programming.png) <img src="https://apexensino.com.br/wp-content/uploads/2017/04/tela-15.png" width="48px" height="48px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Geany_logo.svg/256px-Geany_logo.svg.png" width="48px" height="48px"/> 
+<p align="center">
+  <em>Developer • Open Source Enthusiast • Pet Lover 🐾</em>
+</p>
 
+---
 
-- Typing:
-![imagem](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
-![imagem](https://img.icons8.com/fluency/48/000000/sublime-text.png)   <img src="https://2.bp.blogspot.com/-FWNntDBxgNw/WoMhI0PuQXI/AAAAAAAACgI/r61AZmBrxFgadCQwypw5_LZmt2zi1uPJACLcBGAs/s1600/APRENDA%2BA%2BPROGRAMAR%2BEM%2BPASCAL%2BCOM%2BO%2BPASCALZIM.jpg" width="96px" height="48px"/> <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
+### 🌱 About Me
 
-- Front end:
-![imagem](https://img.icons8.com/color/48/000000/html-5--v1.png)
-![imagem](https://img.icons8.com/color/48/000000/css3.png)
-![imagem](https://img.icons8.com/color/48/000000/javascript.png)
-![imagem](https://img.icons8.com/office/40/000000/react.png)
-![imagem](https://img.icons8.com/color/48/000000/nodejs.png)
+- 💻 Currently exploring **C++** in depth  
+- 🤝 Looking to collaborate on **educational and developer-friendly projects**  
+- 🐶 Fun fact: I absolutely **love pets**!  
 
+---
 
+### 📊 GitHub Stats
 
-- CI/CD:
-![imagem](https://img.icons8.com/ios-filled/50/000000/github-2.png)
-![imagem](https://img.icons8.com/color/48/000000/heroku.png)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abel8260&theme=blue-green&show_icons=true&hide_border=true" alt="GitHub Stats"/>
+</p>
 
-- Server:
-![imagem](https://img.icons8.com/ios-filled/50/000000/php-server.png)
-![imagem](https://img.icons8.com/color/48/000000/postgreesql.png)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abel8260&theme=blue-green&layout=compact&hide_border=true" alt="Top Languages"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abel8260&theme=calm&hide_border=true" alt="GitHub Streak"/>
+</p>
 
+---
 
-# Portfolio:
+### 🛤️ My Roadmap
 
-## Newsletter:
+<p align="center">
+  <a href="https://roadmap.sh">
+    <img src="https://roadmap.sh/card/tall/64e2cea2ced78d29353345ec?variant=dark" alt="My Learning Roadmap"/>
+  </a>
+</p>
 
+---
 
-
-## Sideprojects:
-
-
-
-## Glorious purpose:
-
-
-
-## Study goals: 
-
-
-
-## hobby:
-
-
-
-## Job:
-
-
+<!-- Optionally add contact links or portfolio -->
+<p align="center">
+  📫 Reach me on [GitHub](https://github.com/abel8260)
+</p>
