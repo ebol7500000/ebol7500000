@@ -2,7 +2,7 @@
 <meta property="og:image" content="https://i.ibb.co/jR33T0w/abel8260-og-img.png" />
 
 <h1 align="center">Hi there 👋, I'm ebol_75</h1>
-
+<h2 align="center">this is a continued profile of @abel8260.</h2>
 <p align="center">
   <em>Developer • Open Source Enthusiast • Pet Lover 🐾</em>
 </p>
