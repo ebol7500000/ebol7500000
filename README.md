@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://roadmap.sh">
-    <img src="https://roadmap.sh/card/tall/64e2cea2ced78d29353345ec?variant=dark" alt="My Learning Roadmap"/>
+    [![roadmap.sh](https://roadmap.sh/card/tall/64e2cea2ced78d29353345ec?variant=dark&roadmaps=devrel%2Ccpp)](https://roadmap.sh)
   </a>
 </p>
 
